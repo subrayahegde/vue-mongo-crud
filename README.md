@@ -1,4 +1,4 @@
-# vue-mevn-crud
+#MEVN stack example (Vue.js with Mongodb as backend and Node/express as middleware)
 
 ## Project setup
 ```
